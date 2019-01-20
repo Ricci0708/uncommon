@@ -1,3 +1,3 @@
 # uncommon
 uncommon's github test
-Kahye's birthday is Feb 04
+Uncommon team's github test page
